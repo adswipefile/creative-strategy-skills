@@ -1,8 +1,7 @@
 # Creative strategy skills for Meta ads
 
 Agent skills for creative strategists who make Facebook and Instagram ads:
-competitor research, hooks and angles, ad concepts, video scripts and creative
-audits, each backed by real ads from the
+competitor research, personas, hooks and angles, ad concepts and creative audits, each backed by real ads from the
 [AdSwipeFile ad library](https://adswipefile.com/?utm_source=github&utm_medium=referral&utm_campaign=creative-strategy-skills).
 
 Ask Claude, ChatGPT, Codex or Cursor for a creative strategy and the agent
@@ -49,7 +48,6 @@ learning to the right skill.
 | [`audit-ad-creative`](skills/audit-ad-creative/SKILL.md) | Audit one ad creative, your own or a reference from the AdSwipeFile library, for why it lands or doesn't, judged from a stranger scrolling at speed, and return a short ranked feedback note where every problem ends in a fix. |
 | [`competitor-ads`](skills/competitor-ads/SKILL.md) | Show what ads a brand or competitor is running in the AdSwipeFile ad library, and sum up the formats, hooks, angles and offers it repeats, with a link to every ad cited. |
 | [`creative-strategy`](skills/creative-strategy/SKILL.md) | Start here for creative strategy on Meta ads with AdSwipeFile as the evidence. Routes research, ideation, making, review and learning to the right skill, from mapping competitors to concepts, scripts and audits. |
-| [`edit-copy-for-voice`](skills/edit-copy-for-voice/SKILL.md) | Write, review or rewrite ad copy (hooks, headlines, primary text, scripts, briefs, captions) so it sounds like a person talking, in the brand's voice, with only the claims the evidence carries. |
 | [`find-winning-ads`](skills/find-winning-ads/SKILL.md) | Find winning Facebook and Instagram ads in the AdSwipeFile ad library by niche, format, brand or keyword, and present them with links. |
 | [`generate-ad-concepts`](skills/generate-ad-concepts/SKILL.md) | Generate ad concepts by walking the map from anchor, persona, awareness stage and trigger moment to angle, offer statement, mechanic, format and hook, one concept or a full-funnel batch, with reference ads from the AdSwipeFile ad library for each step. |
 | [`get-started`](skills/get-started/SKILL.md) | Set up AdSwipeFile after installation, check its connection when asked, and help the user ask a first question about winning ads, competitor ads or hooks. |
@@ -62,14 +60,13 @@ learning to the right skill.
 | [`track-competitor-ads`](skills/track-competitor-ads/SKILL.md) | Follow a brand's competitors on AdSwipeFile so their new Meta ads show up, and read what each one keeps running: brand patterns, longest-running ads, hooks, formats and offers. |
 | [`weekly-competitor-review`](skills/weekly-competitor-review/SKILL.md) | Write a short weekly review of the new Meta ads the user's followed brands launched on AdSwipeFile, what changed against each brand's usual patterns, and three ideas to try, with a link to every ad. |
 | [`write-hooks-from-ads`](skills/write-hooks-from-ads/SKILL.md) | Read winning ads in the AdSwipeFile ad library, name the hook and angle each one uses, and write original hooks, headlines or ad copy for the user's product in those patterns. |
-| [`write-short-form-script`](skills/write-short-form-script/SKILL.md) | Write or tighten a short-form video ad script (Reels, TikTok, Shorts, UGC) as spoken lines with visual cues and timed beats, borrowing hooks from real ads in the AdSwipeFile ad library. |
 
 ## What you can ask
 
 - "Build a creative strategy for my skincare brand."
 - "Who are my competitors, and what ads are they running?"
 - "Give me five ad concepts for cold traffic, with reference ads."
-- "Write a 30-second UGC script from hooks that are working in my niche."
+- "Write hooks for my product from ads that kept running in my niche."
 - "Audit this ad and tell me what to fix."
 
 ## About this repo
